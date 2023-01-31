@@ -1,6 +1,6 @@
 # Prusa i3 MK3S
 
-This repo contains my Prusa i3 MK3S configurations.
+This repo contains personal Prusa i3 MK3S configurations.
 
 ## Resources
 
@@ -18,7 +18,7 @@ Printable parts can be found here: https://www.prusa3d.com/prusa-i3-printable-pa
 
 ## Toshiba FlashAir W-04 Wi-Fi SD Card Setup (macOS)
 
-Using the Toshiba FlashAir Wi-Fi cards allow you to a add/remove `.gcode` files to/from the SD card wirelessly without having to remove it physically. It's a convenient workaround to wireless printing for the Prusa i3 MK3S. Below are the steps to set up the card (note that the instructions are intended for the W-04 model, older models may or may not be compatible).
+Using a Toshiba FlashAir Wi-Fi card enables the convenience of wirelessly managing `.gcode` files on the printer. See setup instructions below (note that the instructions are intended for the W-04 model, older models may or may not be compatible):
 
 1. Make note of the master code of the SD card, which is the MAC address printed on the back of the card (12 alphanumeric characters).
 2. Insert FlashAir SD card into your computer, ensure the card is unlocked.
