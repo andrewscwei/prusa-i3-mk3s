@@ -48,6 +48,6 @@ Using a Toshiba FlashAir Wi-Fi card enables the convenience of wirelessly managi
        DHCP_Enabled=YES
        ```
 4. Safely eject the card and insert it in the MK3S, navigate to **Settings**, scroll to **SD card**, and set it to `FlashAir`.
-5. Connect to the card from Finder: **Go** > **Connect to Server...** > `http://<APPNAME>.local`, use any username and no password is needed.s
+5. Connect to the card from Finder: **Go** > **Connect to Server...** > `http://<APPNAME>.local`, use any username and no password is needed.
 
 If all else fails, try reinitializing the SD card using the **FlashAir Configuration Software** downloaded from [here](http://www.toshiba-personalstorage.net/ww/support/download/flashair/w04/config.htm). The option can be accessed from the main menu > *Initialize the card/change settings* > *Initialize*.
